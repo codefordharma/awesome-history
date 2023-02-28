@@ -1,4 +1,11 @@
 # awesome-history
+A curated list of anything and everything related to History in one place.
+
+> This project is a subset of History project supported by Mayash Foundation under Code for Dharma. 
+> Our goal here is to Present all the History knowledge in one place with modern outlook combined with world class UI/UX.
+> Awesome History is the first step in this goal, here we will collect all the work done till date in the field of history.
+> after collecting all the data, data segregation, organisation, translation and presenting this data to general public will be done.
+
 
 ## List of all Websites
 
