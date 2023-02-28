@@ -54,14 +54,47 @@ A curated list of anything and everything related to History in one place.
 
 
 ## Courses
+- https://www.techtitute.com/in/humanities/professional-master-degree/master-world-history?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8lPLFygGGnj1inBhrwxyHB8pCBkFZoZVtop20dVNFrZe5rNpAeWmlsaAv5rEALw_wcB
+- https://oeru.org/?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8kZpcCLOae4sHT4Iwd8WQ8vTuSf6GVEvOB-cj_evp12BR8raNxBR60aAlpPEALw_wcB
+- https://nexus-instituut.nl/en/history?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8n1rQUIPYZLeLs-5El1O0eYL2JI32UNHmIGZGYl-uoa4o2KXp-Dh0gaAmzvEALw_wcB
+- https://collegedunia.com/courses/history
+- https://www.classcentral.com/subject/history
+- https://in.coursera.org/browse/arts-and-humanities/history
+- https://targetstudy.com/courses/history-courses.htm
+- https://www.academiccourses.com/courses/history
+- https://www.indiastudychannel.com/courses/categories/93-history
+- https://www.futurelearn.com/subjects/history-courses
+- https://www.topuniversities.com/courses/history/guide
+- https://history.williams.edu/courses/types-of-courses-in-the-history-curriculum/
+- https://www.hotcoursesabroad.com/india/training-degrees/international/history-courses/cgory/i2-3/sin/ct/programs.html
+- https://www.aralia.com/helpful-information/high-school-history-and-social-science/
+- https://oyc.yale.edu/courses
+- https://www.idp.com/india/search/history/undergraduate/canada/
+- https://www.gordon.edu/history/courses
+- https://www.edx.org/learn/history
+- https://www.thecompleteuniversityguide.co.uk/courses/search/undergraduate/history
+- https://www.undergraduate.study.cam.ac.uk/courses/history
+- http://thenerdseries.com/making-a-choice-have-never-been-this-easy-pluralsight-vs-udemy?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8n6gK6m4QgBOw22eS0rakxfyQH2Hri1Q6fdmBrWcLtl6MbpgtcGM1kaArWgEALw_wcB
+- https://in.coursera.org/courses?query=history
+- https://history.stanford.edu/academics/courses
+- https://www.queensu.ca/history/courses
+- https://history.unc.edu/courses/
+- https://history.indiana.edu/undergraduate/courses.html
+- https://www.theuniguide.co.uk/subjects/history
+- https://history.dartmouth.edu/undergraduate/courses
+- https://www.mcgill.ca/history/undergraduate/courses/area
+- https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-ancient-and-modernn
+- https://history.virginia.edu/full-course-catalog
+
+## List of People who are actively working in the field of sanskrit
 
 
-## list of People who are actively working in the field of sanskrit
 
-
-
-## list of all the educational institutes in sanskrit domain
+## List of all the educational institutes in sanskrit domain
 
 
 
 ## Projects
+
+
+
