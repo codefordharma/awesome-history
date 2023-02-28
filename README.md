@@ -49,3 +49,19 @@ A curated list of anything and everything related to History in one place.
 - https://genealogystories.co.uk/10-websites-for-the-history-of-ordinary-people/
 - https://library.uncw.edu/guides/finding_primary_sources
 - https://gaslampfoundation.org/history-talks-videos/?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8lLZGTUWlSTSOHV3FJfVZrBupZ3cFFj2hTLX-slHFsWk-eCcAP-gkEaAq--EALw_wcB
+
+## Books
+
+
+## Courses
+
+
+## list of People who are actively working in the field of sanskrit
+
+
+
+## list of all the educational institutes in sanskrit domain
+
+
+
+## Projects
