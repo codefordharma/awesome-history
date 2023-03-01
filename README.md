@@ -126,11 +126,11 @@ A curated list of anything and everything related to History in one place.
 - https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-ancient-and-modernn
 - https://history.virginia.edu/full-course-catalog
 
-## List of People who are actively working in the field of sanskrit
+## List of People who are actively working in the field of history
 
 
 
-## List of all the educational institutes in sanskrit domain
+## List of all the educational institutes in history domain
 
 
 
