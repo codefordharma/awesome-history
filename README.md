@@ -52,6 +52,46 @@ A curated list of anything and everything related to History in one place.
 
 ## Books
 
+- "Sapiens: A Brief History of Humankind" by Yuval Noah Harari - https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117
+- "The Guns of August" by Barbara Tuchman - https://www.amazon.com/Guns-August-Pulitzer-Prize-Winning-Outbreak/dp/0345476093
+- "The Histories" by Herodotus - https://www.amazon.com/Histories-Penguin-Classics-Herodotus/dp/0140449086
+- "The Rise and Fall of the Third Reich: A History of Nazi Germany" by William L. Shirer - https://www.amazon.com/Rise-Fall-Third-Reich-History/dp/1451651686
+- "A People's History of the United States" by Howard Zinn - https://www.amazon.com/Peoples-History-United-States/dp/0062397346
+- "The Age of Revolution: Europe 1789-1848" by Eric Hobsbawm - https://www.amazon.com/Age-Revolution-Europe-1789-1848/dp/0679772537
+- "The Decline and Fall of the Roman Empire" by Edward Gibbon - https://www.amazon.com/Decline-Fall-Roman-Empire-Everymans/dp/0679435945
+- "The Origins of Totalitarianism" by Hannah Arendt - https://www.amazon.com/Origins-Totalitarianism-Hannah-Arendt/dp/0156701537
+- "The Silk Roads: A New History of the World" by Peter Frankopan - https://www.amazon.com/Silk-Roads-New-History-World/dp/1101912375
+- "Guns, Germs, and Steel: The Fates of Human Societies" by Jared Diamond - https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552
+- "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America" by Erik Larson - https://www.amazon.com/Devil-White-City-Madness-Changed/dp/0375725601
+- "The Emperor of All Maladies: A Biography of Cancer" by Siddhartha Mukherjee - https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916
+- "1491: New Revelations of the Americas Before Columbus" by Charles C. Mann - https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059- 
+- "The Warmth of Other Suns: The Epic Story of America's Great Migration" by Isabel Wilkerson - https://www.amazon.com/Warmth-Other-Suns-Americas-Migration/dp/0679763880- 
+- "The Swerve: How the World Became Modern" by Stephen Greenblatt - https://www.amazon.com/Swerve-World-Became-Modern/dp/0393343405
+- "The New Jim Crow: Mass Incarceration in the Age of Colorblindness" by Michelle Alexander - https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431
+- "The Immortal Life of Henrietta Lacks" by Rebecca Skloot - https://www.amazon.com/Immortal-Life-Henrietta-Lacks/dp/1400052181
+- "The World is Flat: A Brief History of the Twenty-First Century" by Thomas L. Friedman - https://www.amazon.com/World-Flat-History-Twenty-first-Century/dp/0312425074
+- "The End of History and the Last Man" by Francis Fukuyama - https://www.amazon.com/End-History-Last-Man/dp/0029109752
+- "A Little History of the World" by E. H. Gombrich - https://www.amazon.com/Little-History-World-E-Gombrich/dp/030014332X
+- "India After Gandhi: The History of the World's Largest Democracy" by Ramachandra Guha - https://www.amazon.in/India-After-Gandhi-History-Democracy/dp/0330505548
+- "The Discovery of India" by Jawaharlal Nehru - https://www.amazon.in/Discovery-India-Penguin-Modern-Classics/dp/0143031031
+- "The Argumentative Indian: Writings on Indian History, Culture and Identity" by Amartya Sen - https://www.amazon.in/Argumentative-Indian-Writings-History-Identity/dp/0713998986
+- "The Story of Indian Civilization" by Arjun Dev - https://www.amazon.in/Story-Indian-Civilization-Arjun-Dev/dp/8131732027
+- "India: A History" by John Keay - https://www.amazon.in/India-History-John-Keay/dp/0802195504
+- "The Wonder That Was India" by A.L. Basham - https://www.amazon.in/Wonder-That-Was-India/dp/8129108358
+- "The Penguin History of Early India: From the Origins to AD 1300" by Romila Thapar - https://www.amazon.in/Penguin-History-Early-India-Origins/dp/0143029894
+- "A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century" by Upinder Singh - https://www.amazon.in/History-Ancient-Early-Medieval-India/dp/8131711204
+- "The Last Mughal: The Fall of a Dynasty: Delhi, 1857" by William Dalrymple - https://www.amazon.in/Last-Mughal-Dynasty-Delhi-1857/dp/1408800928
+- "The Great Indian Novel" by Shashi Tharoor - https://www.amazon.in/Great-Indian-Novel-Shashi-Tharoor/dp/0140120497
+- "India: A Portrait" by Patrick French - https://www.amazon.in/India-Portrait-Patrick-French/dp/014310409X
+- "The Raj at War: A People’s History of India’s Second World War" by Yasmin Khan - https://www.amazon.in/Raj-War-Peoples-Indias-Second/dp/1846146063
+- "The Making of Modern India: From Marx to Gandhi" by Bipan Chandra - https://www.amazon.in/Making-Modern-India-Marx-Gandhi/dp/014303121X
+- "India's Ancient Past" by R.S. Sharma - https://www.amazon.in/Indias-Ancient-Past-R-S-Sharma/dp/0198099774
+- "The Emergency: A Personal History" by Coomi Kapoor - https://www.amazon.in/Emergency-Personal-History-Coomi-Kapoor/dp/9352641833
+- "Freedom at Midnight" by Dominique Lapierre and Larry Collins - https://www.amazon.in/Freedom-Midnight-Larry-Collins/dp/8172235127
+- "The Hindus: An Alternative History" by Wendy Doniger - https://www.amazon.in/Hindus-Alternative-History-Wendy-Doniger/dp/014311669X
+- "The Partition of India" by Ian Talbot and Gurharpal Singh - https://www.amazon.in/Partition-India-Ian-Talbot/dp/0521545808
+- "India Discovered: The Recovery of a Lost Civilization" by John Keay - https://www.amazon.in/India-Discovered-Recovery-Lost-Civilisation/dp/0500284242
+- "The Great Partition: The Making of India and Pakistan" by Yasmin Khan - https://www.amazon.in/Great-Partition-Making-India-Pakistan/dp/0300230698
 
 ## Courses
 - https://www.techtitute.com/in/humanities/professional-master-degree/master-world-history?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8lPLFygGGnj1inBhrwxyHB8pCBkFZoZVtop20dVNFrZe5rNpAeWmlsaAv5rEALw_wcB
