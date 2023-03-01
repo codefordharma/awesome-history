@@ -128,11 +128,164 @@ A curated list of anything and everything related to History in one place.
 
 ## List of People who are actively working in the field of history
 
-
+- Romila Thapar - Historian and Emeritus Professor at Jawaharlal Nehru University
+- Irfan Habib - Historian and Professor Emeritus at Aligarh Muslim University
+- Ramachandra Guha - Historian and Writer
+- Upinder Singh - Historian and Professor at University of Delhi
+- Sanjay Subrahmanyam - Historian and Professor at University of California, Los Angeles
+- Mridula Mukherjee - Historian and Professor at Jawaharlal Nehru University
+- Sumit Sarkar - Historian and Writer
+- Sabyasachi Bhattacharya - Historian and Former Director of Indian Council of Historical Research
+- Tanika Sarkar - Historian and Professor at Jawaharlal Nehru University
+- Vijaya Ramaswamy - Historian and Professor at Jawaharlal Nehru University.
+- Dipesh Chakrabarty - Historian and Professor at University of Chicago
+- Satish Chandra - Historian and former Professor at Jawaharlal Nehru University
+- R.S. Sharma - Historian and former Professor at University of Delhi
+- Bipan Chandra - Historian and former Professor at Jawaharlal Nehru University
+- Harbans Mukhia - Historian and former Professor at Jawaharlal Nehru University
+- K.N. Panikkar - Historian and former Professor at Jawaharlal Nehru University
+- Sugata Bose - Historian and Professor at Harvard University
+- Audrey Truschke - Historian and Assistant Professor at Rutgers University
+- Partha Chatterjee - Historian and Professor at Columbia University
+- Shireen Moosvi - Historian and Professor at Aligarh Muslim University.
+- Janaki Nair - Historian and Professor at Jawaharlal Nehru University
+- Pratap Bhanu Mehta - Political Historian and former Vice Chancellor of Ashoka University
+- Muzaffar Alam - Historian and Professor at University of Chicago
+- Rudrangshu Mukherjee - Historian and Editor of The Telegraph
+- Manu Bhagavan - Historian and Professor at Hunter College, City University of New York
+- Srinath Raghavan - Historian and Professor at Ashoka University
+- Indrani Chatterjee - Historian and Professor at University of Texas at Austin
+- Uma Chakravarti - Historian and Professor at Miranda House, University of Delhi
+- Vijay Pinch - Historian and Professor at Wesleyan University
+- Rajmohan Gandhi - Historian and Biographer.
+- Raziuddin Aquil - Historian and Professor at University of Delhi
+- Shahid Amin - Historian and Professor at University of Delhi
+- Sabyasachi Bhattacharya - Historian and former Director of Indian Council of Historical Research
+- Farhat Hasan - Historian and Professor at Jamia Millia Islamia
+- Mushirul Hasan - Historian and former Vice Chancellor of Jamia Millia Islamia
+- Ruby Lal - Historian and Professor at Emory University
+- Kumkum Roy - Historian and Professor at Jawaharlal Nehru University
+- Ananya Vajpeyi - Historian and Professor at Ashoka University
+- Kavita Singh - Art Historian and Professor at Jawaharlal Nehru University
+- B.N. Goswamy - Art Historian and Professor at Panjab University.
+- Chitralekha Zutshi - Historian and Professor at University of California, Riverside
+- Rukun Advani - Historian and Writer
+- Rama Sundari Mantena - Historian and Professor at University of Illinois at Chicago
+- Upamanyu Pablo Mukherjee - Historian and Professor at Warwick University
+- Charu Gupta - Historian and Professor at University of Delhi
+- Anand Vivek Taneja - Historian and Anthropologist at Vanderbilt University
+- Meena Bhargava - Historian and Professor at University of Delhi
+- Mahesh Rangarajan - Environmental Historian and Professor at Ashoka University
+- Suvira Jaiswal - Art Historian and Professor at Jawaharlal Nehru University
+- Chinmay Tumbe - Economic Historian and Professor at Indian Institute of Management Ahmedabad.
+- Chetan Singh - Historian and Professor at Indian Institute of Technology Delhi
+- Sanjay Srivastava - Historian and Professor at Ashoka University
+- Aparna Vaidik - Historian and Professor at Ashoka University
+- Devesh Kapur - Political Scientist and Historian at Johns Hopkins University
+- Anjali Arondekar - Historian and Professor at University of California, Santa Cruz
+- Indrani Chatterjee - Historian and Professor at University of Texas at Austin
+- Neeladri Bhattacharya - Historian and Professor at Jawaharlal Nehru University
+- Aditya Behl - Historian and Professor at University of Pennsylvania
+- Uma Ramaswamy - Historian and Professor at University of Mumbai
+- Swapna M. Banerjee - Historian and Professor at Brooklyn College, City University of New York.
+- Suchitra Vijayan - Historian and Founder of The Polis Project
+- Ayesha Jalal - Historian and Professor at Tufts University
+- Nayanjot Lahiri - Historian and Professor at Ashoka University
+- Sudipta Kaviraj - Historian and Professor at Columbia University
+- Uday S. Mehta - Historian and Professor at City University of New York
+- Priti Ramamurthy - Historian and Professor at University of Washington
+- Ananya Dasgupta - Historian and Professor at University of Wisconsin-Madison
+- Ishita Banerjee-Dube - Historian and Professor at Centre for Studies in Social Sciences, Calcutta
+- Sankar M. Bhaumik - Historian and Professor at University of Nottingham
+- Rajat Datta - Historian and Professor at Jawaharlal Nehru University.
+- Anil Kumar - Historian and Professor at University of Delhi
+- Om Prakash - Economic Historian and Professor at Delhi School of Economics, University of Delhi
+- Venkat Dhulipala - Historian and Professor at University of North Carolina at Wilmington
+- Farhana Ibrahim - Historian and Professor at Jawaharlal Nehru University
+- Anindita Ghosh - Historian and Professor at University of Manchester
+- Sangeeta Ray - Literary Historian and Professor at University of Maryland
+- Sumit Sarkar - Historian and Writer
+- Suresh Chandra Ghosh - Historian and former Vice Chancellor of University of Calcutta
+- Nandini Chandra - Historian and Professor at University of Delhi
+- Ramchandra Guha - Historian and Writer.
+- Manu Bhagavan - Historian and Professor at Hunter College and the Graduate Center, City University of New York
+- Vinita Damodaran - Environmental Historian and Professor at University of Sussex
+- Charu Singh - Historian and Professor at Jawaharlal Nehru University
+- Sudha Pai - Political Scientist and Historian at Jawaharlal Nehru University
+- Sasheej Hegde - Historian and Professor at Jawaharlal Nehru University
+- Ishrat Alam - Historian and Professor at Jawaharlal Nehru University
+- Sumathi Ramaswamy - Historian and Professor at Duke University
+- Tapti Roy - Historian and Professor at University of California, Riverside
+- Yigal Bronner - Historian and Professor at University of Chicago
+- Yasmin Khan - Historian and Professor at University of Oxford.
+- Joya Chatterji - Historian and Professor at University of Cambridge
+- Amitav Ghosh - Historian and Writer
+- Sudhir Chandra - Historian and former Professor at Jawaharlal Nehru University
+- R. Mahalakshmi - Historian and Professor at Indian Institute of Technology Madras
+- Sujata Patel - Sociologist and Historian at University of Hyderabad
+- C.A. Bayly - Historian and Professor at University of Cambridge
+- Sabyasachi Bhattacharya - Historian and former Chairman of the Indian Council of Historical Research
+- Romila Thapar - Historian and Writer
+- Mridula Mukherjee - Historian and former Director of Nehru Memorial Museum and Library
+- Irfan Habib - Historian and Writer.
 
 ## List of all the educational institutes in history domain
 
-
+- Jawaharlal Nehru University (JNU), Delhi - https://www.jnu.ac.in/sis/History
+- University of Delhi, Delhi - http://www.du.ac.in/du/index.php?page=history
+- University of Calcutta, Kolkata - https://www.caluniv.ac.in/academic/department/History.html
+- University of Mumbai, Mumbai - https://mu.ac.in/department-of-history/
+- University of Hyderabad, Hyderabad - https://history.uohyd.ac.in/
+- Aligarh Muslim University, Aligarh - https://www.amu.ac.in/departmentpage.jsp?did=10018&deptid=4
+- Jamia Millia Islamia, Delhi - https://www.jmi.ac.in/history
+- Banaras Hindu University, Varanasi - https://www.bhu.ac.in/faculty/faculty.php?tid=20
+- University of Calicut, Kerala - https://www.uoc.ac.in/schools/school-of-history/index.html
+- University of Rajasthan, Jaipur - https://www.uniraj.ac.in/index.php?mid=27&exid=17
+- University of Kerala, Thiruvananthapuram - http://www.keralauniversity.ac.in/department.php?d=17
+- University of Mysore, Mysuru - https://www.uni-mysore.ac.in/dept-of-history/
+- Osmania University, Hyderabad - https://www.osmania.ac.in/history-department.jsp
+- University of Lucknow, Lucknow - https://www.lkouniv.ac.in/department/history
+- University of Allahabad, Prayagraj - https://www.allduniv.ac.in/department/history
+- University of Madras, Chennai - https://www.unom.ac.in/index.php?route=department/department&deptid=14
+- University of Calicut, Kerala - https://www.uoc.ac.in/schools/school-of-history/index.html
+- Savitribai Phule Pune University, Pune - https://www.unipune.ac.in/dept/fine_arts/History_of_Art_and_Culture/default.htm
+- University of Burdwan, West Bengal - https://www.buruniv.ac.in/FacultyHome.jsp?dep=52&ID=5201
+- University of Jammu, Jammu and Kashmir - https://www.jammuuniversity.in/department.aspx?dept_id=24
+- University of Gour Banga, Malda, West Bengal - http://www.ugb.ac.in/history.html
+- Pondicherry University, Puducherry - https://www.pondiuni.edu.in/department-history
+- Guru Nanak Dev University, Amritsar - https://web.gndu.ac.in/departmenthistory/
+- University of Kalyani, Kalyani, West Bengal - https://www.klyuniv.ac.in/history/
+- Sree Sankaracharya University of Sanskrit, Kalady, Kerala - https://ssus.ac.in/academics/faculties/history/
+- Dr. Babasaheb Ambedkar Marathwada University, Aurangabad - https://www.bamu.ac.in/Department-of-History
+- University of North Bengal, Siliguri, West Bengal - https://www.nbu.ac.in/History.php
+- Bharathidasan University, Tiruchirappalli, Tamil Nadu - https://www.bdu.ac.in/schools/humanities/history/
+- University of Jammu and Kashmir, Srinagar - http://www.uok.edu.in/hist_home.aspx
+- Shivaji University, Kolhapur, Maharashtra - https://www.unishivaji.ac.in/page/department-of-history
+- Dr. Babasaheb Ambedkar Marathwada University, Aurangabad - https://www.bamu.ac.in/Department-of-History
+- University of North Bengal, Siliguri, West Bengal - https://www.nbu.ac.in/History.php
+- Bharathidasan University, Tiruchirappalli, Tamil Nadu - https://www.bdu.ac.in/schools/humanities/history/
+- University of Jammu and Kashmir, Srinagar - http://www.uok.edu.in/hist_home.aspx
+- Shivaji University, Kolhapur, Maharashtra - https://www.unishivaji.ac.in/page/department-of-history
+- University of Mumbai, Mumbai, Maharashtra - https://mu.ac.in/portal/department-of-history-5052/
+- Bharathiar University, Coimbatore, Tamil Nadu - https://www.b-u.ac.in/Home/DepartmentHome?id=43
+- University of Calcutta, Kolkata, West Bengal - https://www.caluniv.ac.in/academic/arts/History/index.htm
+- Indira Gandhi National Open University, New Delhi - https://ignou.ac.in/schools/soss/programmes/detail/102/2
+- University of Madras, Chennai, Tamil Nadu - https://www.unom.ac.in/index.php?route=department/department&deptid=9
+- Jawaharlal Nehru University, New Delhi - https://www.jnu.ac.in/sllcs/history
+- University of Lucknow, Lucknow, Uttar Pradesh - https://www.lkouniv.ac.in/appointment-department-of-history-2022
+- Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur, Maharashtra - https://www.nagpuruniversity.ac.in/links/history_dept.php
+- University of Mysore, Mysuru, Karnataka - https://www.uni-mysore.ac.in/history/
+- Mahatma Gandhi University, Kottayam, Kerala - https://www.mgu.ac.in/school-of-social-sciences/history/
+- University of Hyderabad, Hyderabad, Telangana - https://uohyd.ac.in/index.php/academics/2021-05-11-08-25-08/school-of-humanities/history
+- Gujarat University, Ahmedabad, Gujarat - https://www.gujaratuniversity.ac.in/web/custom/department-history
+- University of Allahabad, Prayagraj, Uttar Pradesh - https://allduniv.ac.in/history-department
+- Banaras Hindu University, Varanasi, Uttar Pradesh - https://bhu.ac.in/ss/history/index.html
+- Savitribai Phule Pune University, Pune, Maharashtra - https://www.unipune.ac.in/dept/social_science/history/default.htm
+- University of Rajasthan, Jaipur, Rajasthan - https://www.uniraj.ac.in/index.php?mid=83
+- University of Delhi, New Delhi - https://du.ac.in/du/index.php?page=history
+- Aligarh Muslim University, Aligarh, Uttar Pradesh - https://www.amu.ac.in/deptofhistory.jsp
+- University of Kashmir, Srinagar - https://www.kashmiruniversity.ac.in/DepartmentDetails.aspx?dept_id=40&loc=main
+- Goa University, Goa - https://www.unigoa.ac.in/department/history
 
 ## Projects
 
