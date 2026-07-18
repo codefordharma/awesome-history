@@ -8,6 +8,7 @@ A curated list of anything and everything related to History in one place.
 
 
 ## List of all Websites
+- [100 Life Simulators](https://ordinarymantrying.com/tools/simulators.html) - Make the actual decisions of Einstein, Darwin, Curie, Mandela, and 96 more historical figures. Then see what they really chose.
 
 - https://ljubljanafrogs.si/en/posts/the-history-of-ljubljana-is-full-of-suprises?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8mROnNs5mS8fT6BQYfBv3hGPm8_qsQfzCE0zJ1k0dz719uEpa-QKGUaAn0FEALw_wcB
 - https://www.gilderlehrman.org/?gclid=Cj0KCQiA6fafBhC1ARIsAIJjL8lPZB_EfB30eMAwCPuFWM0Cx3FxbYZX57tZKtsExvZ2YuC0D2_VKYcaAmngEALw_wcB
